@@ -16,14 +16,15 @@ pip install matplotlib
 
 I use a single NVIDIA TITAN RTX GPU for our experiments.
 
-Train
+### Train
 ```
 python main.py --mode train
 ```
-Sample
+### Sample
 ```
 python main.py --mode sample
 ```
 
-Example Result
+## Example Result
+
 ![sample_epoch100](https://github.com/user-attachments/assets/a6ddbf65-40e0-4630-aea4-7811635c96dd)
