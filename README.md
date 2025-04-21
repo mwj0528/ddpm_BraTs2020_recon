@@ -9,11 +9,13 @@ pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https
 pip install numpy
 pip install tqdm
 pip install tensorboard
+pip install h5py
 pip install matplotlib
 ```
 ## Run
 
 We use a single NVIDIA TITAN RTX GPU for our experiments.
+
 Train
 ```
 python main.py --mode train
