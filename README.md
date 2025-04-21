@@ -28,3 +28,4 @@ python main.py --mode sample
 ## Example Result
 
 ![sample_epoch100](https://github.com/user-attachments/assets/a6ddbf65-40e0-4630-aea4-7811635c96dd)
+![generated_0](https://github.com/user-attachments/assets/16548e1a-ae93-410b-a434-18ebc6465420)
