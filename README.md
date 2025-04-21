@@ -1,7 +1,7 @@
 # DDPM BraTs2020 T1 Reconstruction
 
 ## Installation
-Our implementation is conducted on Python 3.8. To install the environment, please run the following.
+Implementation is conducted on Python 3.10. To install the environment, please run the following.
 ```
 conda create -n ddpm python=3.10
 conda activate ddpm
@@ -14,7 +14,7 @@ pip install matplotlib
 ```
 ## Run
 
-We use a single NVIDIA TITAN RTX GPU for our experiments.
+I use a single NVIDIA TITAN RTX GPU for our experiments.
 
 Train
 ```
