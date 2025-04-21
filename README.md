@@ -24,3 +24,6 @@ Sample
 ```
 python main.py --mode sample
 ```
+
+Example Result
+![sample_epoch100](https://github.com/user-attachments/assets/a6ddbf65-40e0-4630-aea4-7811635c96dd)
