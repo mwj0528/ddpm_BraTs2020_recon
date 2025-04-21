@@ -1,0 +1,10 @@
+data_dir: "./data/BraTs2020"
+save_dir: "./checkpoints"
+log_dir: "./logs"
+sample_dir: "./samples"
+epochs: 100
+batch_size: 8
+lr: 0.0001
+beta_start: 0.0001
+beta_end: 0.02
+n_steps: 1000
